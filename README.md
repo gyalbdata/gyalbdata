@@ -103,7 +103,7 @@ Outside analytics, I enjoy **running, trekking, fitness, and mountain climbing**
 
 ---
 
-### 🔹 **E-Verify Usage Analytics Dashboard (FY2025–FY2026)
+### 🔹 E-Verify Usage Analytics Dashboard (FY2025–FY2026)
 
 Analyzed 43.8M+ annual cases and 1.37M+ enrolled hiring sites across 55 U.S. jurisdictions (50 states, D.C., 4 territories)
 Built bar, dual-axis comparison, logarithmic bubble scatter, and ranking charts in Chart.js to surface enrollment, usage, and activity-rate patterns
