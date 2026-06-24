@@ -103,6 +103,15 @@ Outside analytics, I enjoy **running, trekking, fitness, and mountain climbing**
 
 ---
 
+###🔹 E-Verify Usage Analytics Dashboard (FY2025–FY2026)
+
+Analyzed 43.8M+ annual cases and 1.37M+ enrolled hiring sites across 55 U.S. jurisdictions (50 states, D.C., 4 territories)
+Built bar, dual-axis comparison, logarithmic bubble scatter, and ranking charts in Chart.js to surface enrollment, usage, and activity-rate patterns
+Uncovered a key insight: Georgia ranks #2 nationally in enrolled sites but lowest in activity rate (14.2%), exposing dormant-enrollment patterns hidden in raw totals
+Corrected a fiscal-year mismatch (partial FY2026 vs. complete FY2025) using an annualized run-rate comparison instead of a misleading direct year-over-year chart
+Delivered as a self-contained, sortable HTML dashboard with KPI summary cards, an interactive data table, and narrative findings
+
+
 ### 🔹 **NYC Hate Crime Multi-Year Analysis (2019–2021)**
 Conducted an in-depth analysis of **1,296+ incidents**, performing data cleaning, transformation, and multi-year trend visualization in Tableau.  
 Revealed major shifts in Race/Color, Religion, and Sexual Orientation–based offenses.
@@ -114,6 +123,8 @@ Analyzed customer demand, service times, workforce capacity, mobile order impact
 Modeled workflow improvements increasing throughput to **30 customers/hr**, showcasing strong process optimization skills.
 
 ---
+
+
 
 ### 🔹 **Global Sales Performance Analysis (Tableau)**
 Built a dashboard analyzing sales across **20+ countries** and 7 product lines.  
